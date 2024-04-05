@@ -5,7 +5,7 @@
 Proyek ini bertujuan untuk membuat sebuah website UMKM (Usaha Mikro Kecil dan Menengah) yang menghadirkan produk telur gulung secara menarik dan informatif kepada pengunjung. Website ini dibangun dengan menggunakan teknik layout CSS Grid untuk memperkuat struktur tata letak halaman secara responsif dan modern.
 
 ### Live Demo
-[UMKM Telur gulung](https://hulu-tv-clone-app.vercel.app/)
+[UMKM Telur gulung](https://umkm-telurgulung.vercel.app/)
 
 ## Features
 - **Katalog Produk**: Halaman yang menampilkan berbagai jenis telur gulung yang tersedia, dilengkapi dengan gambar, deskripsi produk, dan harga. Tata letaknya dirancang menggunakan CSS Grid agar pengguna dapat dengan mudah menelusuri produk-produk tersebut.
